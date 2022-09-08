@@ -1,0 +1,15 @@
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\bin\Debug\net6.0\EX_14.exe
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\bin\Debug\net6.0\EX_14.deps.json
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\bin\Debug\net6.0\EX_14.runtimeconfig.json
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\bin\Debug\net6.0\EX_14.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\bin\Debug\net6.0\EX_14.pdb
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\obj\Debug\net6.0\EX_14.csproj.AssemblyReference.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\obj\Debug\net6.0\EX_14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\obj\Debug\net6.0\EX_14.AssemblyInfoInputs.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\obj\Debug\net6.0\EX_14.AssemblyInfo.cs
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\obj\Debug\net6.0\EX_14.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\obj\Debug\net6.0\EX_14.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\obj\Debug\net6.0\refint\EX_14.dll
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\obj\Debug\net6.0\EX_14.pdb
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\obj\Debug\net6.0\EX_14.genruntimeconfig.cache
+D:\Workspace\C#\Dotnet_CNTT 14-05\week_3\Vũ Đại An CNTT 14-05\EX_14\EX_14\obj\Debug\net6.0\ref\EX_14.dll
